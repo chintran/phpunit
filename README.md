@@ -1,7 +1,7 @@
 ## Build steps
 
 This repository to build phpunit test environment
-(Require docker ready to installed on you pc)
+(Require docker ready to installed on your environment)
 
 1. Build image
     - cd to souce code
